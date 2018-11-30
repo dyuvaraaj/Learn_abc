@@ -1,2 +1,2 @@
 # Learn_abc
-Learn ABC
+This project is to learn AI, Block Chain and Cyber security
